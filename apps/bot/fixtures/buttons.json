@@ -1,0 +1,200 @@
+[
+  {
+    "model": "bot.button",
+    "pk": "0653bcfb-e933-4e04-8ea5-b4dd88101996",
+    "fields": {
+      "name": "ru",
+      "text": "\ud83c\uddf7\ud83c\uddfa Russian",
+      "text_ru": "\ud83c\uddf7\ud83c\uddfa \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "text_uz": "\ud83c\uddf7\ud83c\uddfa Rus",
+      "text_en": "\ud83c\uddf7\ud83c\uddfa Russian"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "21df9151-ba1a-4546-9701-9a4b51686f32",
+    "fields": {
+      "name": "PICKUP",
+      "text": "\ud83c\udfc3\u200d\u2642\ufe0f Pickup",
+      "text_ru": "\ud83c\udfc3\u200d\u2642 \u0421\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437",
+      "text_uz": "\ud83c\udfc3\u200d\u2642 \u0421\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437",
+      "text_en": "\ud83c\udfc3\u200d\u2642\ufe0f Pickup"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "2e40b5f5-1d74-443a-8974-48e37f73ae59",
+    "fields": {
+      "name": "full_name_change",
+      "text": "Change full name",
+      "text_ru": "\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0424.\u0418.\u041e",
+      "text_uz": "\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0424.\u0418.\u041e",
+      "text_en": "Change full name"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "5d80fe95-798a-4350-80f1-43d518f96c2e",
+    "fields": {
+      "name": "settings",
+      "text": "Settings",
+      "text_ru": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438",
+      "text_uz": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438",
+      "text_en": "Settings"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "6a4c338d-ef20-43f7-a9fe-43be705429b6",
+    "fields": {
+      "name": "checkout",
+      "text": "Checkout",
+      "text_ru": "\u041e\u0444\u043e\u0440\u043c\u0438\u0442\u044c \u0437\u0430\u043a\u0430\u0437",
+      "text_uz": "\u041e\u0444\u043e\u0440\u043c\u0438\u0442\u044c \u0437\u0430\u043a\u0430\u0437",
+      "text_en": "Checkout"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "75810d64-0ac0-4788-99ae-b10771f40624",
+    "fields": {
+      "name": "phone_number",
+      "text": "Send my phone number",
+      "text_ru": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043c\u043e\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+      "text_uz": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043c\u043e\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
+      "text_en": "Send my phone number"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "7cb6c64a-abb3-46e3-8636-23e9dd8bff15",
+    "fields": {
+      "name": "language_change",
+      "text": "Change language",
+      "text_ru": "\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u044f\u0437\u044b\u043a",
+      "text_uz": "\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u044f\u0437\u044b\u043a",
+      "text_en": "Change language"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "7f19669f-4028-4b6f-825f-ae34d0ea9168",
+    "fields": {
+      "name": "information",
+      "text": "Information",
+      "text_ru": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+      "text_uz": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+      "text_en": "Information"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "83b0e82c-7081-4c74-a58f-58a47a22a7bd",
+    "fields": {
+      "name": "review",
+      "text": "Review",
+      "text_ru": "\u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432",
+      "text_uz": "\u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432",
+      "text_en": "Review"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "9d8cd07a-de51-47d0-adce-c518578ceb54",
+    "fields": {
+      "name": "confirm_order",
+      "text": "\u2705 I order",
+      "text_ru": "\u2705 \u0417\u0430\u043a\u0430\u0437\u044b\u0432\u0430\u044e!",
+      "text_uz": "\u2705 \u0417\u0430\u043a\u0430\u0437\u044b\u0432\u0430\u044e!",
+      "text_en": "\u2705 I order"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "af72ee3b-1d74-42fe-9116-321a21d74608",
+    "fields": {
+      "name": "cancel_order",
+      "text": "Cancel",
+      "text_ru": "\u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c",
+      "text_uz": "\u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c",
+      "text_en": "Cancel"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "bf1ce263-5057-4805-9b16-737abfaa403e",
+    "fields": {
+      "name": "location",
+      "text": "Send my location",
+      "text_ru": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043c\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+      "text_uz": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043c\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+      "text_en": "Send my location"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "c22f32ca-fe2d-4fd2-9de8-08693d57c306",
+    "fields": {
+      "name": "order",
+      "text": "Order",
+      "text_ru": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c",
+      "text_uz": "Buyurtma berish",
+      "text_en": "Order"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "cd8433b3-3c39-4bdc-888d-d9f243a06fbb",
+    "fields": {
+      "name": "cart",
+      "text": "\ud83d\udce5 Cart",
+      "text_ru": "\ud83d\udce5 \u041a\u043e\u0440\u0437\u0438\u043d\u0430",
+      "text_uz": "\ud83d\udce5 \u041a\u043e\u0440\u0437\u0438\u043d\u0430",
+      "text_en": "\ud83d\udce5 Cart"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "d4315ba7-5bb5-40d6-b04f-78f772fadc64",
+    "fields": {
+      "name": "uz",
+      "text": "\ud83c\uddfa\ud83c\uddff Uzbek",
+      "text_ru": "\ud83c\uddfa\ud83c\uddff \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0438\u0439",
+      "text_uz": "\ud83c\uddfa\ud83c\uddff O'zbek",
+      "text_en": "\ud83c\uddfa\ud83c\uddff Uzbek"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "dfe176fd-e659-4449-bf9e-3859ff015932",
+    "fields": {
+      "name": "back",
+      "text": "\u2b05\ufe0f Back",
+      "text_ru": "\u2b05\ufe0f \u041d\u0430\u0437\u0430\u0434",
+      "text_uz": "\u2b05\ufe0f Orqaga",
+      "text_en": "\u2b05\ufe0f Back"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "e35bd0d4-eba9-4940-a4ee-65b911f1a0d7",
+    "fields": {
+      "name": "DELIVERY",
+      "text": "\ud83d\ude98 Delivery",
+      "text_ru": "\ud83d\ude98 \u0414\u043e\u0441\u0442\u0430\u0432\u0430\u043a\u0430",
+      "text_uz": "\ud83d\ude98 \u0414\u043e\u0441\u0442\u0430\u0432\u0430\u043a\u0430",
+      "text_en": "\ud83d\ude98 Delivery"
+    }
+  },
+  {
+    "model": "bot.button",
+    "pk": "fa7fbb18-768c-471b-89ce-41b1e2d8f0c5",
+    "fields": {
+      "name": "accept",
+      "text": "\u2705 Accept",
+      "text_ru": "\u2705 \u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c",
+      "text_uz": "\u2705 Tasdiqlang",
+      "text_en": "\u2705 Accept"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "model": "bot.message",
+    "pk": 29,
+    "fields": {
+      "title": "day_off",
+      "text": "Day off. Open date - %(start_date)s",
+      "text_ru": "\u0423 \u043d\u0430\u0441 \u0432\u044b\u0445\u043e\u0434\u043d\u043e\u0439. \u0414\u0430\u0442\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f - %(start_date)s",
+      "text_uz": "\u0423 \u043d\u0430\u0441 \u0432\u044b\u0445\u043e\u0434\u043d\u043e\u0439. \u0414\u0430\u0442\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f - %(start_date)s",
+      "text_en": "Day off. Open date - %(start_date)s"
+    }
+  }
+]

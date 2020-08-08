@@ -1,0 +1,2 @@
+class GMapsServiceError(Exception):
+    pass

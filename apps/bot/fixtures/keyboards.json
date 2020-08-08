@@ -1,0 +1,58 @@
+[
+  {
+    "model": "bot.keyboard",
+    "pk": "37e93804-7819-4d27-92a2-d71dbdf41848",
+    "fields": {
+      "name": "main_menu"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "770c70fe-761a-4d6f-b3ad-7376d9f8b394",
+    "fields": {
+      "name": "checkout"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "95b2a60d-ff41-40f7-b54f-cf54aabf2e52",
+    "fields": {
+      "name": "confirm_order"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "a64d807d-5f50-4cf6-b0f8-f236c8976890",
+    "fields": {
+      "name": "location"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "ac369c48-a31b-4418-b1cd-bfedf970d68e",
+    "fields": {
+      "name": "settings"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "dccae0c2-1a93-47d2-85da-66ca3decb353",
+    "fields": {
+      "name": "language_choice"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "e024e48d-a2a6-4ffc-b32a-bd794b28c59a",
+    "fields": {
+      "name": "order_type_choice"
+    }
+  },
+  {
+    "model": "bot.keyboard",
+    "pk": "e10f5d1d-74f5-439e-8859-cfa3dcf661c3",
+    "fields": {
+      "name": "phone_number"
+    }
+  }
+]

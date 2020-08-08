@@ -1,0 +1,182 @@
+[
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 1,
+    "fields": {
+      "keyboard": "dccae0c2-1a93-47d2-85da-66ca3decb353",
+      "button": "0653bcfb-e933-4e04-8ea5-b4dd88101996",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 3,
+    "fields": {
+      "keyboard": "dccae0c2-1a93-47d2-85da-66ca3decb353",
+      "button": "d4315ba7-5bb5-40d6-b04f-78f772fadc64",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 4,
+    "fields": {
+      "keyboard": "37e93804-7819-4d27-92a2-d71dbdf41848",
+      "button": "c22f32ca-fe2d-4fd2-9de8-08693d57c306",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 5,
+    "fields": {
+      "keyboard": "37e93804-7819-4d27-92a2-d71dbdf41848",
+      "button": "83b0e82c-7081-4c74-a58f-58a47a22a7bd",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 6,
+    "fields": {
+      "keyboard": "37e93804-7819-4d27-92a2-d71dbdf41848",
+      "button": "7f19669f-4028-4b6f-825f-ae34d0ea9168",
+      "ordering": 2
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 7,
+    "fields": {
+      "keyboard": "37e93804-7819-4d27-92a2-d71dbdf41848",
+      "button": "5d80fe95-798a-4350-80f1-43d518f96c2e",
+      "ordering": 3
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 8,
+    "fields": {
+      "keyboard": "e024e48d-a2a6-4ffc-b32a-bd794b28c59a",
+      "button": "21df9151-ba1a-4546-9701-9a4b51686f32",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 9,
+    "fields": {
+      "keyboard": "e024e48d-a2a6-4ffc-b32a-bd794b28c59a",
+      "button": "e35bd0d4-eba9-4940-a4ee-65b911f1a0d7",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 41,
+    "fields": {
+      "keyboard": "ac369c48-a31b-4418-b1cd-bfedf970d68e",
+      "button": "2e40b5f5-1d74-443a-8974-48e37f73ae59",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 43,
+    "fields": {
+      "keyboard": "ac369c48-a31b-4418-b1cd-bfedf970d68e",
+      "button": "7cb6c64a-abb3-46e3-8636-23e9dd8bff15",
+      "ordering": 2
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 44,
+    "fields": {
+      "keyboard": "e024e48d-a2a6-4ffc-b32a-bd794b28c59a",
+      "button": "dfe176fd-e659-4449-bf9e-3859ff015932",
+      "ordering": 2
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 46,
+    "fields": {
+      "keyboard": "770c70fe-761a-4d6f-b3ad-7376d9f8b394",
+      "button": "cd8433b3-3c39-4bdc-888d-d9f243a06fbb",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 47,
+    "fields": {
+      "keyboard": "770c70fe-761a-4d6f-b3ad-7376d9f8b394",
+      "button": "6a4c338d-ef20-43f7-a9fe-43be705429b6",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 51,
+    "fields": {
+      "keyboard": "ac369c48-a31b-4418-b1cd-bfedf970d68e",
+      "button": "dfe176fd-e659-4449-bf9e-3859ff015932",
+      "ordering": 3
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 53,
+    "fields": {
+      "keyboard": "e10f5d1d-74f5-439e-8859-cfa3dcf661c3",
+      "button": "75810d64-0ac0-4788-99ae-b10771f40624",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 54,
+    "fields": {
+      "keyboard": "e10f5d1d-74f5-439e-8859-cfa3dcf661c3",
+      "button": "dfe176fd-e659-4449-bf9e-3859ff015932",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 55,
+    "fields": {
+      "keyboard": "a64d807d-5f50-4cf6-b0f8-f236c8976890",
+      "button": "bf1ce263-5057-4805-9b16-737abfaa403e",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 56,
+    "fields": {
+      "keyboard": "a64d807d-5f50-4cf6-b0f8-f236c8976890",
+      "button": "dfe176fd-e659-4449-bf9e-3859ff015932",
+      "ordering": 1
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 57,
+    "fields": {
+      "keyboard": "95b2a60d-ff41-40f7-b54f-cf54aabf2e52",
+      "button": "9d8cd07a-de51-47d0-adce-c518578ceb54",
+      "ordering": 0
+    }
+  },
+  {
+    "model": "bot.keyboardbuttonsordering",
+    "pk": 67,
+    "fields": {
+      "keyboard": "95b2a60d-ff41-40f7-b54f-cf54aabf2e52",
+      "button": "dfe176fd-e659-4449-bf9e-3859ff015932",
+      "ordering": 1
+    }
+  }
+]
